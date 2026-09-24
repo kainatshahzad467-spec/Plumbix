@@ -1,0 +1,6 @@
+{
+  "name": "PlumbBix Plumbing & Drain Solutions",
+  "description": "Licensed and insured American plumbing contractor offering 24/7 emergency repairs, drain cleaning, water heaters, and leak detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
